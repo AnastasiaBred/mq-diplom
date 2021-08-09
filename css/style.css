@@ -1314,6 +1314,17 @@ label {
 }
 .product__price-value-1 {
     font-size: 0.7rem;
+
+}
+.product__price-value-1:before {
+    content: "";
+    width: 100%;
+    height: 0.1em;
+    background: #db7d76;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: rotate(-1deg);
 }
 .product__price-value-2 {
     font-size: 1rem;
