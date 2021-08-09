@@ -276,19 +276,21 @@
     .trend-news-items {
         display: flex;
         flex-wrap: wrap;
+
     }
     .trend-lifestyle-interior {
-
-        max-width: 100%;
-
-        height: 170px;
-        margin: 20% 5.5% 4% 5.5%;
+        height: 100%;
+        margin-right: 5%;
         box-sizing: border-box;
     }
+    .trend-news-content{
+        display: flex;
+        align-items: flex-end;
+
+    }
     .trend-content {
-        width: 70%;
+        width: 90%;
         height: 10%;
-        margin-right: 0%;
         box-sizing: border-box;
     }
     .content {
