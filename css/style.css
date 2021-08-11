@@ -70,21 +70,21 @@
     }
     .trend-news-1 {
         width: 24%;
-        height: 25%;
+        height: ;
     }
     .trend-news-2 {
         width: 24%;
-        height: 25%;
+        height: ;
         margin-left: 1%;
     }
     .trend-news-3 {
         width: 24%;
-        height: 25%;
+        height: ;
         margin-left: 1%;
     }
     .trend-news-4 {
         width: 24%;
-        height: 25;
+        height: ;
         margin-left: 1%;
     }
     .content {
@@ -844,7 +844,7 @@
     box-sizing: border-box;
 }
 
-.trend-content-catalogue {
+.trend-content-catalogue {s
     position: relative;
     z-index: 3;
 }
@@ -1295,7 +1295,7 @@ label {
 
 
 .popup-wrapper {
-    visibility: 
+    visibility: hidden;
     width: 100%;
     height: 100%;
     position: fixed;
